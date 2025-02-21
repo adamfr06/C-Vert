@@ -57,9 +57,5 @@ A lightweight Chrome extension that allows users to quickly convert highlighted 
 - **Customization Options**: Allow users to define custom unit conversions.
 - **Keyboard Shortcut Support**: Enable quick conversions via key bindings.
 
----
 
-## License
-
-This project is licensed under the MIT License.
 
